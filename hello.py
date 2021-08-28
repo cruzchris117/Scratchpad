@@ -1,4 +1,4 @@
-
+print ("hello world") 
 
 if __name__ == "__main__":
     with open('random text.txt') as reader:

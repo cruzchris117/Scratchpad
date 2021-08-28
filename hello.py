@@ -1,6 +1,7 @@
-print ("hello world") 
+
 
 if __name__ == "__main__":
+    print ("hello world") 
     with open('random text.txt') as reader:
         counts = dict()
         for line in reader:
